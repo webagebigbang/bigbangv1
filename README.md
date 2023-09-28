@@ -66,7 +66,7 @@ sudo swapoff -a
 
 **# bibgbangv1**
 
-git clone https://github.com/webagebigbang/bibgbangv1.git
+git clone https://github.com/webagebigbang/bigbangv1.git
 
 cd bibgbangv1
 
